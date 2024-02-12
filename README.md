@@ -17,4 +17,4 @@ Name: Sai Deva Pranay Kumar Rao, Guddity ID: 700745063
 
 Code File - Neural Networks_ICP3_700745063.ipynb  Document- Neural Networks_ICP3
 
-Video Link: 
+Video Link: https://drive.google.com/file/d/1943yr_F1GfIS-rlrWXgs0sZZwDUHX19M/view?usp=sharing
